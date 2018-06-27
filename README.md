@@ -1,6 +1,45 @@
 # Dataset
 
-a lot of dataset to big data
+A lot of dataset to big data
+
+# Content
+
+- [Tools](#Tools)
+- [International](#International)
+- [Brasil](#Brazilian)
+- [Acre](#acre)
+- [Alagoas](#alagoas)
+- [Amapá](#amapá)
+- [Amazonas](#amazonas)
+- [Bahia](#bahia)
+- [Ceará](#ceará)
+- [Distrito Federal](#distrito-federal)
+- [Espírito Santo](#espírito-santo)
+- [Goiás](#goiás)
+- [Maranhão](#maranhão)
+- [Mato Grosso](#mato-grosso)
+- [Mato Grosso do Sul](#mato-grosso-do-sul)
+- [Minas Gerais](#minas-gerais)
+- [Pará](#pará)
+- [Paraíba](#paraíba)
+- [Paraná](#paraná)
+- [Pernambuco](#pernambuco)
+- [Piauí](#piauí)
+- [Rio de Janeiro](#rio-de-janeiro)
+- [Rio Grande do Norte](#rio-grande-do-norte)
+- [Rio Grande do Sul](#rio-grande-do-sul)
+- [Rondônia](#rondônia)
+- [Roraima](#roraima)
+- [Santa Catarina](#santa-catarina)
+- [São Paulo](#são-paulo)
+- [Sergipe](#sergipe)
+- [Tocantins](#tocantins)
+
+# Tools
+
+To merge many files in one. To easy import file.
+
+`awk 'FNR==1 && NR!=1{next;}{print}' *.csv`
 
 
 ## International
@@ -62,36 +101,7 @@ http://dados.mj.gov.br/dataset
 - [openfootball/br-brazil](https://github.com/openfootball/br-brazil) &mdash; Dados do campeonato brasileiro.
 
 
-# Contents
 
-- [Brasil](#Brazilian)
-- [Acre](#acre)
-- [Alagoas](#alagoas)
-- [Amapá](#amapá)
-- [Amazonas](#amazonas)
-- [Bahia](#bahia)
-- [Ceará](#ceará)
-- [Distrito Federal](#distrito-federal)
-- [Espírito Santo](#espírito-santo)
-- [Goiás](#goiás)
-- [Maranhão](#maranhão)
-- [Mato Grosso](#mato-grosso)
-- [Mato Grosso do Sul](#mato-grosso-do-sul)
-- [Minas Gerais](#minas-gerais)
-- [Pará](#pará)
-- [Paraíba](#paraíba)
-- [Paraná](#paraná)
-- [Pernambuco](#pernambuco)
-- [Piauí](#piauí)
-- [Rio de Janeiro](#rio-de-janeiro)
-- [Rio Grande do Norte](#rio-grande-do-norte)
-- [Rio Grande do Sul](#rio-grande-do-sul)
-- [Rondônia](#rondônia)
-- [Roraima](#roraima)
-- [Santa Catarina](#santa-catarina)
-- [São Paulo](#são-paulo)
-- [Sergipe](#sergipe)
-- [Tocantins](#tocantins)
 
 
 
@@ -170,8 +180,3 @@ http://dados.mj.gov.br/dataset
 
 ## Tocantins
 
-# Tools
-
-To merge many files in one. To easy import file.
-
-`awk 'FNR==1 && NR!=1{next;}{print}' *.csv`

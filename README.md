@@ -174,4 +174,4 @@ http://dados.mj.gov.br/dataset
 
 To merge many files in one. To easy import file.
 
-$awk 'FNR==1 && NR!=1{next;}{print}' *.csv
+`awk 'FNR==1 && NR!=1{next;}{print}' *.csv`

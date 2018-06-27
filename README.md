@@ -169,3 +169,9 @@ http://dados.mj.gov.br/dataset
 ## Sergipe
 
 ## Tocantins
+
+# Tools
+
+To merge many files in one. To easy import file.
+
+$awk 'FNR==1 && NR!=1{next;}{print}' *.csv

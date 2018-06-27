@@ -4,9 +4,9 @@ A lot of dataset to big data
 
 # Content
 
-- [Tools](#Tools)
-- [International](#International)
-- [Brasil](#Brazilian)
+- [Tools](#tools)
+- [International](#international)
+- [Brasil](#brazilian)
 - [Acre](#acre)
 - [Alagoas](#alagoas)
 - [Amapá](#amapá)
@@ -35,7 +35,7 @@ A lot of dataset to big data
 - [Sergipe](#sergipe)
 - [Tocantins](#tocantins)
 
-# Tools
+## Tools
 
 To merge many files in one. To easy import file.
 

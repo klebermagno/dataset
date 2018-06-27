@@ -23,6 +23,13 @@ https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
 
 https://www.reddit.com/r/datasets/
 
+https://data.humdata.org/
+
+https://data.world/
+
+https://catalog.data.gov
+
+https://old.datahub.io
 
 ## Brazilian
 
@@ -30,9 +37,34 @@ http://dados.gov.br/
 
 http://www.portaldatransparencia.gov.br
 
+https://data.humdata.org/group/bra
+
+https://data.world/datasets/brazil
+
+https://dadosabertos.bcb.gov.br/en/dataset
+
+https://downloads.ibge.gov.br
+
+https://downloads.ibge.gov.br/downloads_top.php
+
+http://dados.mj.gov.br/dataset
+
+- [QEdu](http://www.qedu.org.br) &mdash; Dados de educação.
+- [TIC Pesquisas](http://cetic.br/pesquisas) &mdash; Pesquisas sobre educação, saúde, etc.
+- [IBGE](http://www.ibge.gov.br) &mdash; Dados do Instituto brasileiro de geografia e estatística.
+- [Datapedia](http://www.datapedia.info) &mdash; Dados organizados por região.
+- [Instituto Nacional de Pesquisas Espaciais](http://sinda.crn2.inpe.br/PCD/SITE/novo/site) &mdash; Dados de clima.
+- [Infraero](https://github.com/ehrhardt/Infraero) &mdash; Dados da Infraero (Python).
+- [congressbr](https://github.com/RobertMyles/congressbr) &mdash; Dados do senado federal e câmara dos deputados (R).
+- [places.br](https://github.com/paulofreitas/places.br) &mdash; Dados geográficos.
+- [flora](https://github.com/gustavobio/flora) &mdash; Dados da flora brasileira (R).
+- [BrazilianFootball](https://github.com/DiSiqueira/BrazilianFootball) &mdash; Dados de futebol (shell script).
+- [openfootball/br-brazil](https://github.com/openfootball/br-brazil) &mdash; Dados do campeonato brasileiro.
+
+
 # Contents
 
-- [Brasil](#brasil)
+- [Brasil](#Brazilian)
 - [Acre](#acre)
 - [Alagoas](#alagoas)
 - [Amapá](#amapá)
@@ -61,19 +93,8 @@ http://www.portaldatransparencia.gov.br
 - [Sergipe](#sergipe)
 - [Tocantins](#tocantins)
 
-## Brasil
 
-- [QEdu](http://www.qedu.org.br) &mdash; Dados de educação.
-- [TIC Pesquisas](http://cetic.br/pesquisas) &mdash; Pesquisas sobre educação, saúde, etc.
-- [IBGE](http://www.ibge.gov.br) &mdash; Dados do Instituto brasileiro de geografia e estatística.
-- [Datapedia](http://www.datapedia.info) &mdash; Dados organizados por região.
-- [Instituto Nacional de Pesquisas Espaciais](http://sinda.crn2.inpe.br/PCD/SITE/novo/site) &mdash; Dados de clima.
-- [Infraero](https://github.com/ehrhardt/Infraero) &mdash; Dados da Infraero (Python).
-- [congressbr](https://github.com/RobertMyles/congressbr) &mdash; Dados do senado federal e câmara dos deputados (R).
-- [places.br](https://github.com/paulofreitas/places.br) &mdash; Dados geográficos.
-- [flora](https://github.com/gustavobio/flora) &mdash; Dados da flora brasileira (R).
-- [BrazilianFootball](https://github.com/DiSiqueira/BrazilianFootball) &mdash; Dados de futebol (shell script).
-- [openfootball/br-brazil](https://github.com/openfootball/br-brazil) &mdash; Dados do campeonato brasileiro.
+
 
 ## Acre
 
